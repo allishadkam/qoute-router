@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import { Prompt } from 'react-router-dom';
-import { Fragment } from 'react/cjs/react.production.min';
+import { Fragment } from 'react';
 
 import Card from '../UI/Card';
 import LoadingSpinner from '../UI/LoadingSpinner';
